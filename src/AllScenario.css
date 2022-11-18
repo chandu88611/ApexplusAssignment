@@ -1,0 +1,38 @@
+.th{
+    background: rgb(75, 73, 73);
+    color: whitesmoke;
+    padding: 1vw
+}
+.th>th{
+    padding: 1vw
+}
+td{
+    padding: 1vw;
+   text-align: center;
+
+}
+.all{
+    background: black;
+    color: aliceblue;
+   
+}
+.tr{
+    background: rgb(226, 222, 222);
+    color: black;
+    font-size: 1.5vw;
+}
+.table{
+    border-collapse: collapse;
+    width: 80vw;
+}
+.home{
+    background: black;
+    width: 80vw;
+}
+.canva{
+    width: 80vw;
+    background: black;
+    height: 80vh;
+    border: 2px solid green;
+    margin-top: 5vh;
+}

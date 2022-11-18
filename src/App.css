@@ -1,0 +1,12 @@
+.App{
+    display: flex;
+    flex-direction: row;
+}
+.link{
+    text-decoration: none;
+    font-size: 1.7vw;
+    color: black;
+}
+.list:hover{
+background: rgb(41, 117, 184);
+}
